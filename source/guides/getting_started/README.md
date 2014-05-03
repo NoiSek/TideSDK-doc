@@ -215,7 +215,7 @@ The Hello World app is a very basic illustration of a TideSDK app. Our TideBuild
 
 For TideSDK 1.4.0, CommonJS will be fully integrated to provide the highest level of modular development using JavaScript.
 
-### CHANGLOG.txt
+### CHANGELOG.txt
 
 This file is a log or record of changes to your app including fixes, features, and updates over its release history.
 
